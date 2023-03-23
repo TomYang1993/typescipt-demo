@@ -65,6 +65,7 @@
   },
   "exclude": [
     "node_modules", // would be the default
-    "src/example without class overwrite.ts"
+    "src/example without class overwrite.ts",
+    "src/example without file import.ts"
   ]
 }
